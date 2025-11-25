@@ -1,0 +1,33 @@
+# ------------------------
+# Fichiers générés par l'IDE Code::Blocks
+# ------------------------
+*.layout
+*.depend
+*.cbp.user
+*.cbp.*.user
+
+# ------------------------
+# Fichiers binaires / exécutables
+# ------------------------
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+
+# ------------------------
+# Dossiers de build
+# ------------------------
+bin/
+build/
+Debug/
+Release/
+
+# ------------------------
+# Fichiers temporaires / sauvegardes
+# ------------------------
+*.log
+*.tmp
+*.bak
+*~
